@@ -1,0 +1,2 @@
+https://kit.svelte.dev/docs/project-structure
+Khai báo: $lib cho các file trong folder src/lib

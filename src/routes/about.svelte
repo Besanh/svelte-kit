@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <div class="about">
 	<h2>About us</h2>
 	<p>
@@ -5,7 +8,6 @@
 		similique placeat impedit, ad perferendis. Inventore asperiores dolores dignissimos!
 		Dignissimos, numquam. Eaque, tempora laborum quod expedita mollitia molestiae?
 	</p>
-	<div class="index">hello</div>
 </div>
 
 <style>
